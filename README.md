@@ -20,7 +20,7 @@ A full-stack backend boilerplate using **Node.js**, **Express**, **TypeScript**,
 ## 📁 Folder Structure
 
 ```
-node-mongo-redis-demo/
+express-boilerplate-authentication/
 │
 ├── src/
 │   ├── controllers/      # Controller logic
@@ -57,8 +57,8 @@ node-mongo-redis-demo/
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/Rakesh-Debdarsan/node-mongo-redis-demo.git
-cd node-mongo-redis-demo
+git clone https://github.com/Rakesh-Debdarsan/express-boilerplate-authentication.git
+cd express-boilerplate-authentication
 ```
 
 ### 2. Install Dependencies
