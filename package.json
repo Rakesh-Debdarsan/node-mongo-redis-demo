@@ -1,5 +1,5 @@
 {
-  "name": "mongo-redis-demo",
+  "name": "express-boilerplate-authentication",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
